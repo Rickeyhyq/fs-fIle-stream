@@ -1,0 +1,25 @@
+{
+  "count": 1,
+  "start": 0,
+  "total": 25,
+  "subjects": [{
+    "rating": {
+      "max": 10,
+      "average": 8.4,
+      "stars": "45",
+      "min": 0
+    },
+    "genres": [
+      "剧情",
+      "动作",
+      "科幻"
+    ],
+    "title": "金刚狼3：殊死一战",
+    "collect_count": 110885,
+    "original_title": "Logan",
+    "subtype": "movie",
+    "year": "2017",
+    "id": "25765735"
+  }],
+  "title": "正在上映的电影-北京"
+}
